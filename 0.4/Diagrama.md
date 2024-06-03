@@ -33,4 +33,4 @@ sequenceDiagram
     servidor-->>navegador: [{ "content": "HTML es fácil", "date": "2024-1-1" }, ... ]
     deactivate servidor
 
-    %% El navegador ejecuta las notas.
+    %% Nota: El navegador ejecuta las notas.
